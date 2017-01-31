@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+/notes.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+/db.sqlite3
+.env
+.idea
+/glifft/dev.py
+celerybeat-schedule
